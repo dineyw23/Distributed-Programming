@@ -4,4 +4,4 @@
 
 ## Executing
 
-`./goldchase`
+`./goldChase`
